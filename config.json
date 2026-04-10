@@ -1,0 +1,11 @@
+{
+  "main_account": {
+    "username": "asfonline_"
+  },
+
+  "upload_accounts": [
+    { "username": "abh.inav83294", "password": "abhinav66vns" }
+  ],
+
+  "posting_times": ["09:00", "14:00", "19:00"]
+}
